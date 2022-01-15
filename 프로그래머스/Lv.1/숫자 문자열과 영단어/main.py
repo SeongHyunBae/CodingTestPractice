@@ -28,7 +28,7 @@ def solution(s):
 
 
 if __name__ == "__main__":
-    print(solution(	"one4seveneight"))
+    print(solution("one4seveneight"))
     print(solution("23four5six7"))
     print(solution("2three45sixseven"))
     print(solution("123"))
